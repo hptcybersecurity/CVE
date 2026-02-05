@@ -38,3 +38,4 @@ Sử dụng để lưu trữ các POC CVE trong quá trình nghiên cứu và Su
 | Wordpress | File Manager Pro – Filester | 5.9 | WordPress (File Manager Pro – Filester) - Stored-XSS in user role restriction settings | CVE-2025-52710 | SangNK |
 | SWIFT | Alliance Access | 6.5 | Alliance Access/Entry Version 7.7.04 | CVE-2025-61125 | SangNK |
 | SWIFT | Alliance Access | 6.5 | Alliance Access/Entry Version 7.7.04 | CVE-2025-61124 | SangNK |
+| Oracle | Oracle Financial Services Analytical Applications | 6.5 | Oracle Financial Services Analytical Applications | CVE-2025-53035 | SangNK / BaoLQ |

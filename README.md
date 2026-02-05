@@ -1,4 +1,4 @@
-<img width="224" height="53" alt="image" src="https://github.com/user-attachments/assets/7d698ee2-ea0a-4af8-973f-4c17948d227a" /><img width="462" height="53" alt="image" src="https://github.com/user-attachments/assets/f0f1f642-8b55-4d95-bc4d-6e06a5589f68" /># CVE-POC
+# CVE-POC
 Sử dụng để lưu trữ các POC CVE trong quá trình nghiên cứu và Submit CVE 2025
 
 # Updated

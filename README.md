@@ -1,4 +1,4 @@
-# CVE-POC
+<img width="224" height="53" alt="image" src="https://github.com/user-attachments/assets/7d698ee2-ea0a-4af8-973f-4c17948d227a" /><img width="462" height="53" alt="image" src="https://github.com/user-attachments/assets/f0f1f642-8b55-4d95-bc4d-6e06a5589f68" /># CVE-POC
 Sử dụng để lưu trữ các POC CVE trong quá trình nghiên cứu và Submit CVE 2025
 
 # Updated
@@ -36,3 +36,5 @@ Sử dụng để lưu trữ các POC CVE trong quá trình nghiên cứu và Su
 | Wordpress | Store Locator WordPress | 6.6 | WordPress (Store Locator WordPress) Arbitrary File Write lead to RCE (Admin+) | CVE-2025-49329 | SangNK |
 | Wordpress | School Management System for Wordpress | 6.5 | WordPress (School Management System for Wordpress - Account take over) Custom role | CVE-2025-49895 | SangNK |
 | Wordpress | File Manager Pro – Filester | 5.9 | WordPress (File Manager Pro – Filester) - Stored-XSS in user role restriction settings | CVE-2025-52710 | SangNK |
+| SWIFT | Alliance Access | 6.5 | Alliance Access/Entry Version 7.7.04 | CVE-2025-61125 | SangNK |
+| SWIFT | Alliance Access | 6.5 | Alliance Access/Entry Version 7.7.04 | CVE-2025-61124 | SangNK |

@@ -5,17 +5,17 @@ Sử dụng để lưu trữ các POC CVE trong quá trình nghiên cứu và Su
 
 | Vendor | Product | Severity | Description / Linked Docs | CVE ID | Credits |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| phpgurukul | Hospital Management System In PHP | 9.8 | phpgurukul(Hospital Management System In PHP) Sql injection in index.php (Authenticated) | CVE-2025-56214 | BaoLQ |
-| phpgurukul | Hospital Management System In PHP | 6.5 | phpgurukul(Hospital Management System In PHP) Sql injection in contact.php (Authenticated) | CVE-2025-56215 | BaoLQ |
-| phpgurukul | Hospital Management System In PHP | 9.8 | phpgurukul(Hospital Management System In PHP) Sql injection in add-doctor.php (Authenticated) | CVE-2025-56212 | BaoLQ |
-| phpgurukul | Hospital Management System In PHP | 8.5 | phpgurukul(Hospital Management System In PHP) Sql injection in about-us.php (Authenticated) | CVE-2025-56216 | BaoLQ |
-| phpgurukul | Complaint Management System in PHP | 8.1 | Complaint Management System in PHP - SQL Injection (Unauthenticated) in user/reset-password | CVE-2025-57146 | SangNK |
-| phpgurukul | Online Shopping Portal Project in PHP | 9.1 | Online Shopping Portal Project in PHP - Arbitrary File Upload (Admin+) | CVE-2025-57148 | SangNK |
-| phpgurukul | Complaint Management System in PHP | 8.8 | Complaint Management System in PHP - Stored Cross-site Scripting in /admin/userprofile.php | CVE-2025-57151 | SangNK |
-| phpgurukul | Complaint Management System in PHP | 7.5 | Complaint Management System in PHP - SQL Injection (Unauthenticated) in user/registration.php | CVE-2025-57147 | SangNK |
-| phpgurukul | Complaint Management System in PHP | 7.2 | Complaint Management System in PHP - Stored Cross-site Scripting in admin/subcategory.php | CVE-2025-57150 | SangNK |
-| phpgurukul | Complaint Management System in PHP | 6.5 | Complaint Management System in PHP - SQL Injection (Authenticated) in user/complaint-details | CVE-2025-57149 | SangNK |
-| phpgurukul | Online Shopping Portal Project in PHP | 7.3 | Online Shopping Portal Project in PHP - SQL Injection (User+) in user/bill-ship-addresses.php | CVE-2025-9012 | SangNK |
+| phpgurukul | Hospital Management System In PHP | 9.8 | phpgurukul(Hospital Management System In PHP) Sql injection in index.php (Authenticated) | CVE-2025-56214 | BaoLQ, LanLV |
+| phpgurukul | Hospital Management System In PHP | 6.5 | phpgurukul(Hospital Management System In PHP) Sql injection in contact.php (Authenticated) | CVE-2025-56215 | BaoLQ, TrungNV |
+| phpgurukul | Hospital Management System In PHP | 9.8 | phpgurukul(Hospital Management System In PHP) Sql injection in add-doctor.php (Authenticated) | CVE-2025-56212 | BaoLQ, BachPS |
+| phpgurukul | Hospital Management System In PHP | 8.5 | phpgurukul(Hospital Management System In PHP) Sql injection in about-us.php (Authenticated) | CVE-2025-56216 | BaoLQ, VyNTL |
+| phpgurukul | Complaint Management System in PHP | 8.1 | Complaint Management System in PHP - SQL Injection (Unauthenticated) in user/reset-password | CVE-2025-57146 | SangNK, LanLV |
+| phpgurukul | Online Shopping Portal Project in PHP | 9.1 | Online Shopping Portal Project in PHP - Arbitrary File Upload (Admin+) | CVE-2025-57148 | SangNK, ChinhNQ |
+| phpgurukul | Complaint Management System in PHP | 8.8 | Complaint Management System in PHP - Stored Cross-site Scripting in /admin/userprofile.php | CVE-2025-57151 | SangNK, TrungNV |
+| phpgurukul | Complaint Management System in PHP | 7.5 | Complaint Management System in PHP - SQL Injection (Unauthenticated) in user/registration.php | CVE-2025-57147 | SangNK, BachPS |
+| phpgurukul | Complaint Management System in PHP | 7.2 | Complaint Management System in PHP - Stored Cross-site Scripting in admin/subcategory.php | CVE-2025-57150 | SangNK, VyNTL |
+| phpgurukul | Complaint Management System in PHP | 6.5 | Complaint Management System in PHP - SQL Injection (Authenticated) in user/complaint-details | CVE-2025-57149 | SangNK, ChinhNQ |
+| phpgurukul | Online Shopping Portal Project in PHP | 7.3 | Online Shopping Portal Project in PHP - SQL Injection (User+) in user/bill-ship-addresses.php | CVE-2025-9012 | SangNK, TrungNV |
 | Wordpress | Classiera – Classified Ads WordPress Theme | 9.3 | Wordpress (Classiera – Classified Ads WordPress Theme) - Sql injection | CVE-2025-52722 | BaoLQ |
 | Wordpress | Listeo-Core - Directory Plugin by Purethemes | 8.5 | WordPress (Listeo-Core - Directory Plugin by Purethemes) SQL Injection (Subscriber+) | CVE-2025-49404 | BaoLQ |
 | Wordpress | SMTP for Amazon SES – YaySMTP | 7.6 | WordPress (SMTP for Amazon SES – YaySMTP) Multiple SQL Injection (Admin+) | CVE-2025-54043 | BaoLQ |

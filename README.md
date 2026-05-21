@@ -10,7 +10,7 @@ Sử dụng để lưu trữ các POC CVE trong quá trình nghiên cứu và Su
 | phpgurukul | Hospital Management System In PHP | 9.8 | phpgurukul(Hospital Management System In PHP) Sql injection in add-doctor.php (Authenticated) | CVE-2025-56212 | BaoLQ, BachPS |
 | phpgurukul | Hospital Management System In PHP | 8.5 | phpgurukul(Hospital Management System In PHP) Sql injection in about-us.php (Authenticated) | CVE-2025-56216 | BaoLQ, VyNTL |
 | phpgurukul | Complaint Management System in PHP | 8.1 | Complaint Management System in PHP - SQL Injection (Unauthenticated) in user/reset-password | CVE-2025-57146 | SangNK, LanLV |
-| phpgurukul | Online Shopping Portal Project in PHP | 9.1 | Online Shopping Portal Project in PHP - Arbitrary File Upload (Admin+) | CVE-2025-57148 | SangNK, ChinhNQ |
+| phpgurukul | Online Shopping Portal Project in PHP | 9.1 | Online Shopping Portal Project in PHP - Arbitrary File Upload (Admin+) | CVE-2025-57148 | SangNK, BachPS |
 | phpgurukul | Complaint Management System in PHP | 8.8 | Complaint Management System in PHP - Stored Cross-site Scripting in /admin/userprofile.php | CVE-2025-57151 | SangNK, TrungNV |
 | phpgurukul | Complaint Management System in PHP | 7.5 | Complaint Management System in PHP - SQL Injection (Unauthenticated) in user/registration.php | CVE-2025-57147 | SangNK, BachPS |
 | phpgurukul | Complaint Management System in PHP | 7.2 | Complaint Management System in PHP - Stored Cross-site Scripting in admin/subcategory.php | CVE-2025-57150 | SangNK, VyNTL |

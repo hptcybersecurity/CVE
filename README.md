@@ -16,11 +16,11 @@ Sử dụng để lưu trữ các POC CVE trong quá trình nghiên cứu và Su
 | phpgurukul | Complaint Management System in PHP | 7.2 | Complaint Management System in PHP - Stored Cross-site Scripting in admin/subcategory.php | CVE-2025-57150 | SangNK, VyNTL |
 | phpgurukul | Complaint Management System in PHP | 6.5 | Complaint Management System in PHP - SQL Injection (Authenticated) in user/complaint-details | CVE-2025-57149 | SangNK, ChinhNQ |
 | phpgurukul | Online Shopping Portal Project in PHP | 7.3 | Online Shopping Portal Project in PHP - SQL Injection (User+) in user/bill-ship-addresses.php | CVE-2025-9012 | SangNK, TrungNV |
-| Wordpress | Classiera – Classified Ads WordPress Theme | 9.3 | Wordpress (Classiera – Classified Ads WordPress Theme) - Sql injection | CVE-2025-52722 | BaoLQ |
-| Wordpress | Listeo-Core - Directory Plugin by Purethemes | 8.5 | WordPress (Listeo-Core - Directory Plugin by Purethemes) SQL Injection (Subscriber+) | CVE-2025-49404 | BaoLQ |
-| Wordpress | SMTP for Amazon SES – YaySMTP | 7.6 | WordPress (SMTP for Amazon SES – YaySMTP) Multiple SQL Injection (Admin+) | CVE-2025-54043 | BaoLQ |
-| Wordpress | SMTP for SendGrid – YaySMTP | 7.6 | WordPress (SMTP for SendGrid – YaySMTP) Multiple SQL Injection (Admin+) | CVE-2025-48301 | BaoLQ |
-| Wordpress | YayExtra – WooCommerce Extra Product Options | 7.6 | WordPress (YayExtra – WooCommerce Extra Product Options) SQL Injection (Admin+) | CVE-2025-48299 | BaoLQ |
+| Wordpress | Classiera – Classified Ads WordPress Theme | 9.3 | Wordpress (Classiera – Classified Ads WordPress Theme) - Sql injection | CVE-2025-52722 | BaoLQ, NamNT |
+| Wordpress | Listeo-Core - Directory Plugin by Purethemes | 8.5 | WordPress (Listeo-Core - Directory Plugin by Purethemes) SQL Injection (Subscriber+) | CVE-2025-49404 | BaoLQ, NKHai |
+| Wordpress | SMTP for Amazon SES – YaySMTP | 7.6 | WordPress (SMTP for Amazon SES – YaySMTP) Multiple SQL Injection (Admin+) | CVE-2025-54043 | BaoLQ, KhangDT |
+| Wordpress | SMTP for SendGrid – YaySMTP | 7.6 | WordPress (SMTP for SendGrid – YaySMTP) Multiple SQL Injection (Admin+) | CVE-2025-48301 | BaoLQ, BaoVT |
+| Wordpress | YayExtra – WooCommerce Extra Product Options | 7.6 | WordPress (YayExtra – WooCommerce Extra Product Options) SQL Injection (Admin+) | CVE-2025-48299 | BaoLQ, QuanDH |
 | Wordpress | SMTP for Sendinblue – YaySMTP | 7.6 | WordPress (SMTP for Sendinblue – YaySMTP) Multiple SQL Injection (Admin+) | CVE-2025-48161 | BaoLQ |
 | OpenEMR | OpenEMR | 7.1 | OpenEMR - SQL Injection | CVE-2024-22611 | BaoLQ |
 | Wordpress | WooCommerce Refund And Exchange with RMA | 9.8 | WordPress(WooCommerce Refund And Exchange with RMA - Warranty Manage, Refund P | CVE-2025-6222 | SangNK |

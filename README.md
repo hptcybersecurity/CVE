@@ -24,7 +24,7 @@ Sử dụng để lưu trữ các POC CVE trong quá trình nghiên cứu và Su
 | Wordpress | SMTP for Sendinblue – YaySMTP | 7.6 | WordPress (SMTP for Sendinblue – YaySMTP) Multiple SQL Injection (Admin+) | CVE-2025-48161 | BaoLQ |
 | OpenEMR | OpenEMR | 7.1 | OpenEMR - SQL Injection | CVE-2024-22611 | BaoLQ |
 | Wordpress | WooCommerce Refund And Exchange with RMA | 9.8 | WordPress(WooCommerce Refund And Exchange with RMA - Warranty Manage, Refund P | CVE-2025-6222 | SangNK |
-| Wordpress | PostaPanduri | 9.3 | Wordpress (postapanduri) - Sql injection | CVE-2025-49452 | SangNK |
+| Wordpress | PostaPanduri | 9.3 | Wordpress (postapanduri) - Sql injection | CVE-2025-49452 | SangNK, DatVT |
 | Wordpress | HieCOR Payment Gateway Plugin | 9.3 | Wordpress (HieCOR Payment Gateway Plugin) - Sql injection | CVE-2025-52773 | SangNK |
 | Wordpress | DirectIQ Email Marketing | 9.3 | Wordpress (DirectIQ Email Marketing) - Sql injection | CVE-2025-52829 | SangNK |
 | Wordpress | Pakke Envios | 8.5 | Wordpress (Pakke Envios) - Sql injection | CVE-2025-52819 | SangNK |
